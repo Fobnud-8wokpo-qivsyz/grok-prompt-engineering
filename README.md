@@ -14,6 +14,13 @@ Los mejores prompts son **claros, específicos y honestos**.
 
 ---
 
+## Contenido del repositorio
+
+- [README.md](README.md) → Esta guía principal
+- [**plantillas.md**](plantillas.md) → Colección de 12 plantillas listas para usar
+
+---
+
 ## Principios clave
 
 | Principio | Qué significa | Ejemplo malo | Ejemplo bueno |
@@ -79,37 +86,23 @@ Tono: Directo y técnico, sin rodeos.
 
 ---
 
-## Plantillas rápidas
+## Plantillas rápidas (resumen)
 
-### Análisis profundo
-```
-Analiza [tema] desde estas perspectivas:
-1. ...
-2. ...
-Sé lo más objetivo y basado en evidencia posible. Señala dónde hay incertidumbre.
-```
+> **Ver la colección completa aquí → [plantillas.md](plantillas.md)**
 
-### Código
-```
-Escribe [lo que necesitas] en [lenguaje].
-Requisitos:
-- ...
-- ...
-Incluye comentarios solo donde sea necesario y explica las decisiones importantes.
-```
-
-### Opiniones / consejos
-```
-Dame tu opinión más honesta sobre [tema].
-No suavices. Si hay trade-offs claros, dímelos.
-```
-
-### Iterar
-```
-Mejora esta respuesta anterior:
-[pegar respuesta]
-Cambia específicamente: [qué quieres mejorar]
-```
+Incluye plantillas listas para:
+- Análisis profundo
+- Revisión de código
+- Generación de código
+- Comparaciones
+- Critica + Mejora
+- Emails / mensajes
+- Explicaciones multinivel
+- Brainstorming
+- Debugging
+- Opiniones directas
+- Resúmenes
+- Planes de acción
 
 ---
 
